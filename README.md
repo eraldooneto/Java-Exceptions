@@ -12,4 +12,4 @@ The content is:
 
 ## Class design 
 
-Class project here [upload image later]
+![Reservation](reservation.png)
